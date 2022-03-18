@@ -1,13 +1,9 @@
 ## Hi there! I am Sebastian Arenas Rodriguez :)
 
-- 🔭 I’m currently studying Systems Engineer in Universidad del Cauca
-- 🌱 I’m currently learning Spring Boot and Python
-
-
 <div align="center">
   <a href="https://github.com/s3rodriguez10">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=s3rodriguez10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3rodriguez10&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s3rodriguez10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3rodriguez10&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -19,9 +15,9 @@
   
   <img align="right" alt="s3rodri-chandler" height="150" style="border-radius:50px;" src="">
 </div>
+
   
 ##
-
 <div> 
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
