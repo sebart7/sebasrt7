@@ -16,7 +16,7 @@
   <img align="center" alt="s3rodri-Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   
   
-  <img align="right" alt="s3rodri-chandler" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="s3rodri-chandler" height="150" style="border-radius:50px;" src="https://github.com/s3rodriguez10/s3rodriguez10/blob/main/Images/Chandler.jpg">
 </div>
 
   
