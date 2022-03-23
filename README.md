@@ -5,15 +5,15 @@
 
 <div align="center">
   <a href="https://github.com/s3rodriguez10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s3rodriguez10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3rodriguez10&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s3rodriguez10&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3rodriguez10&layout=compact&langs_count=7&theme=react"/>
 </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="s3rodri-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="s3rodri-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="s3rodri-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="s3rodri-Visual" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="s3rodri-Visual" height="50" width="60" src="https://github.com/s3rodriguez10/s3rodriguez10/blob/main/Images/visual-studio-code.svg">
   
   
   <img align="right" alt="s3rodri-chandler" height="150" style="border-radius:50px;" src="https://github.com/s3rodriguez10/s3rodriguez10/blob/main/Images/Chandler.jpg">
