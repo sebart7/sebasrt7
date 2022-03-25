@@ -13,10 +13,9 @@
   <img align="center" alt="s3rodri-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="s3rodri-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="s3rodri-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="s3rodri-Visual" height="50" width="60" src="https://github.com/s3rodriguez10/s3rodriguez10/blob/main/Images/visual-studio-code.svg">
+  <img align="center" alt="s3rodri-Visual" height="50" width="50" src="https://i.imgur.com/QGEq8az.png?1">
   
-  
-  <img align="right" alt="s3rodri-chandler" height="150" style="border-radius:50px;" src="https://github.com/s3rodriguez10/s3rodriguez10/blob/main/Images/Chandler.jpg">
+  <img align="right" alt="s3rodri-chandler" height="150" style="border-radius:50px;" src="https://i.imgur.com/LdR7sHv.jpg">
 </div>
 
   
