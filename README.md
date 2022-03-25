@@ -1,8 +1,8 @@
 ## Hi there! I am Sebastian Arenas Rodriguez :)
-
+<!--
 - 🔭 I’m currently studying Systems Engineer in Universidad del Cauca
 - 🌱 I’m currently learning Spring Boot and Python
-
+-->
 <div align="center">
   <a href="https://github.com/s3rodriguez10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s3rodriguez10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
